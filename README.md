@@ -1,6 +1,6 @@
 # sp100_top20
 
-This project builds on the initial work shown in the sp100 repo posted earlier. Here single and multi-factor regressions are computed for the largest 20 firms in the S&P 100 Index as well as for the Fidelity Magellen equity mutual fund.
+This project builds on the initial work shown in the sp100_basic.stats repo posted previously. Here single and multi-factor regressions are computed for the largest 20 firms in the S&P 100 Index as well as for the Fidelity Magellen equity mutual fund.
 
 The script uses the quantmod and Quandl packages to gather data on the 20 firms and leverages base R functionality to perform the regression testing and plot some interesting data. Tables containing summary statistics can be seen by running the script itself. 
 
