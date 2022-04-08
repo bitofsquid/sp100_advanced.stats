@@ -8,7 +8,7 @@ Return data is from Yahoo for the 20 firms and from Ken French's data library fo
 
 Here is a plot of each ticker's position relative to the Security Market Line.
 
-![test](https://github.com/jtryker/sp100_top20/blob/master/Rplot.png)
+![test](https://github.com/bitofsquid/sp100_top20/blob/master/Rplot.png)
 
 And a simple plot illustrating a time series of monthly returns for the Fidelity Magellen mutual fund.
-![test](https://github.com/jtryker/sp100_top20/blob/master/Rplot01.png)
+![test](https://github.com/bitofsquid/sp100_top20/blob/master/Rplot01.png)
